@@ -1,0 +1,22 @@
+{
+  "name": "conference-track-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conference.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eden-cola/conference-track-management.git"
+  },
+  "author": "eden_cola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eden-cola/conference-track-management/issues"
+  },
+  "homepage": "https://github.com/Eden-cola/conference-track-management#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
